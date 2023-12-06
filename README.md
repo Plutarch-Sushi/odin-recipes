@@ -1,1 +1,2 @@
 # odin-recipes
+It is my first project with the purpose of presenting a webpage with recipes contents with the use of my earned knowledge in HTML taught by The Odin Project. It is created by demonstrating my gained skills using HTML, Git, Github.
